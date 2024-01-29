@@ -1,6 +1,6 @@
 # Infinite Scroll Website with Unsplash API
 
-![Project Screenshot](<img width="629" alt="image" src="https://github.com/Khushvircheema/Infinite-Scroll/assets/85808196/21ebc4b9-681a-422d-b421-4bff03a6f0b0">
+![Project Screenshot](<img width="629" alt="image" src="https://i.imgur.com/aVpO3nr.png">
 )
 
 This project is an infinite scroll website that fetches images from the Unsplash API and displays them dynamically as the user scrolls down the page. It's built using HTML, JavaScript, and CSS.
