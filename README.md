@@ -11,7 +11,7 @@ You can see a live demo [here](https://khushvircheema.github.io/Infinite-Scroll/
 ## Features
 
 - **Infinite Scrolling**: Continuously loads more images as the user scrolls down.
-- **Unsplash API Integration**: Fetches high-quality images from Unsplash based on search queries.
+- **Unsplash API Integration**: Fetches high-quality images from Unsplash.
 - **Responsive Design**: Ensures the website looks great on various devices and screen sizes.
 
 ## Technologies Used
