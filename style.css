@@ -24,7 +24,6 @@ h1 {
   left: 0;
   right: 0;
   background: rgba(255, 255, 255, 0.8);
-  border: 2px solid red;
 }
 
 .loader img {
